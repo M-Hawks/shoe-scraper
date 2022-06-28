@@ -6650,3 +6650,1337 @@ t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1654643861217	geckodriver	INFO	Listening on 127.0.0.1:59819
+1654643864299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilecm1IC2"
+*** You are running in headless mode.
+1654643864618	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59820
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilecm1IC2\\search.json.mozlz4", (void 0)))
+1654643865348	Marionette	INFO	Listening on port 59842
+DevTools listening on ws://localhost:59820/devtools/browser/11b03f60-bd0b-4db2-b506-685d499c694e
+Read port: 59842
+1654643865414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654643867315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a80d181460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 19500, MediaDecoderStateMachine #1] WARNING: 1a8140c4120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+1654643870646	Marionette	INFO	Stopped listening on port 59842
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 13652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654670989398	geckodriver	INFO	Listening on 127.0.0.1:55877
+1654670992476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilePXKVj4"
+*** You are running in headless mode.
+1654670992971	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55878
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilePXKVj4\\search.json.mozlz4", (void 0)))
+1654670994699	Marionette	INFO	Listening on port 55917
+DevTools listening on ws://localhost:55878/devtools/browser/1d7773c0-44cc-4d8c-bfa9-40a9b73735ca
+Read port: 55917
+1654670994827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654670998370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a2448af020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 11136, MediaDecoderStateMachine #1] WARNING: 1a24f0709a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145497
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145768
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145448
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146891
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175063
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175247
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175476
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+1654671002242	Marionette	INFO	Stopped listening on port 55917
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Michael\AppData\Local\Temp\rust_mozprofilePXKVj4\protections.sqlite
+1656384521189	geckodriver	INFO	Listening on 127.0.0.1:58219
+1656384524295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofileHUVUST"
+*** You are running in headless mode.
+1656384524707	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58220
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofileHUVUST\\search.json.mozlz4", (void 0)))
+1656384526042	Marionette	INFO	Listening on port 58256
+DevTools listening on ws://localhost:58220/devtools/browser/024d8e83-09c1-464a-b760-cef63b48af62
+Read port: 58256
+1656384526208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eef6af9a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1656384529167	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa089670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef3815230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eef72ecd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef65d0680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef6832120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eef60acd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef9a1d680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef6c9c230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eececccd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee464680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee58a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee441cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eeea71680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee9ee230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee890cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef34dd680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef56e9120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef56d2cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef8947680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef8947680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef4d35ab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef40ad8a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef40ad8a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eedcbede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eece238a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef5d3abc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef89ee680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef6c93230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa30cbc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa3c1680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef04a2230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ef9c3ebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee31c790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee3b9120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eee3cebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa465680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa44d230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa53fbc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa85b680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa97d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efa97fbc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efabf3680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24eface3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efaa95cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efafd4680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb034120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24efb0e5bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 6940, MediaDecoderStateMachine #1] WARNING: 24ee65309b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+er/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eab889cce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eac2161670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eac2c51130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eab8445ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eab8461670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eac26f6130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eabdc70ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eabdc70ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eabdc70ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8176, MediaDecoderStateMachine #1] WARNING: 1eabdc70ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d220eebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d220eebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d220eebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d220eebc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d21142ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1c49a790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d24cef560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1efaf020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d23c31ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1efa2670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d20511020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1ef7ebd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d218af560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1aaf0020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d20bd8ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d20ada670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d192fc020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d1ac54ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d21876560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d2056e020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 8088, MediaDecoderStateMachine #1] WARNING: 21d20a60ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+CoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+[Child 29356, MediaDecoderStateMachine #1] WARNING: 20ea1007350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 29356, MediaDecoderStateMachine #1] WARNING: 20ea1007350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+1656385455591	Marionette	INFO	Stopped listening on port 59441
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Michael\AppData\Local\Temp\rust_mozprofilewPBipY\protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656385550312	geckodriver	INFO	Listening on 127.0.0.1:59647
+1656385553375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilemM6FG2"
+*** You are running in headless mode.
+1656385553813	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59648
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofilemM6FG2\\search.json.mozlz4", (void 0)))
+1656385555011	Marionette	INFO	Listening on port 59686
+DevTools listening on ws://localhost:59648/devtools/browser/0c59debd-72e3-47f5-822b-814d31876d80
+Read port: 59686
+1656385555128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 16468, MediaDecoderStateMachine #1] WARNING: 1409cca29a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1656385557884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 16468, MediaDecoderStateMachine #1] WARNING: 1409cca29a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+[Child 16468, MediaDecoderStateMachine #1] WARNING: 1409cca29a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 16468, MediaDecoderStateMachine #1] WARNING: 1409cca29a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+[Child 16468, MediaDecoderStateMachine #1] WARNING: 1409cca29a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+1656385559852	Marionette	INFO	Stopped listening on port 59686
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Michael\AppData\Local\Temp\rust_mozprofilemM6FG2\protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656386014087	geckodriver	INFO	Listening on 127.0.0.1:59903
+1656386017161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofileFhnGsi"
+*** You are running in headless mode.
+1656386017602	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59904
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Michael\\AppData\\Local\\Temp\\rust_mozprofileFhnGsi\\search.json.mozlz4", (void 0)))
+1656386018805	Marionette	INFO	Listening on port 59925
+DevTools listening on ws://localhost:59904/devtools/browser/bf5c78f0-56d7-4c79-83e3-d5f7aace295a
+Read port: 59925
+1656386018927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 27564, MediaDecoderStateMachine #1] WARNING: 1f423b5e460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1656386021471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 27564, MediaDecoderStateMachine #1] WARNING: 1f423b5e460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+[Child 27564, MediaDecoderStateMachine #1] WARNING: 1f423b5e460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.allbirds.com"
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+[Child 27564, MediaDecoderStateMachine #1] WARNING: 1f423b5e460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 27564, MediaDecoderStateMachine #1] WARNING: 1f423b5e460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript error: https://cdn.trackjs.com/releases/current/tracker.js line 1 > srcScript, line 37: Error: TrackJS Caught: Bootstrap Error for common:
+
+Request listener already exists for zoid_allow_delegate_three_domain_secure on domain * for wildcard window
+
+e@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:69428
+Xt@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:70149
+oo@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:119031
+Go/</e<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145496
+Go/<@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145767
+be@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:19422
+Go@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:145447
+__get__@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:146890
+o@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175214
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175398
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:175627
+t@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:157
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:941
+@https://www.paypal.com/sdk/js?components=shopping&client-id=AftWkp6YjyNK1DrAx5w-qyYcHufSqiZ1LuwTwyYh7zRL18Pk0nELFTxkyODiT7FBxbsu-TWWCoPvEPj2:1:950
+
+1656386023456	Marionette	INFO	Stopped listening on port 59925
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

@@ -16,16 +16,13 @@ driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), optio
 
 url = "https://www.allbirds.com/products/mens-tree-toppers"
 
-
-
-
 def sendText(jsonStrAvailableShoes):
 
     recipient = os.environ["emailRec"]
     port = 465
     smtp_server = "smtp.gmail.com"
     sender_email = os.environ["senderEmail"]
-    password = os.environ["emailPassword"]
+    password = 'os.environ["emailPassword"]'
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
@@ -39,7 +36,6 @@ def sendText(jsonStrAvailableShoes):
     server.login(sender_email, password)
     server.sendmail(sender_email, recipient, msg.as_string())
     server.quit()
-
 
 driver.get(url)
 try:
@@ -56,21 +52,17 @@ class Availability:
 
 available = Availability()
 
-colorsDiv = driver.find_element(by=By.XPATH, value="/html/body/main/div/div[1]/div/div/div/div[2]/div/div[2]/div/div[2]/div[2]")
-
+colorsDiv = driver.find_element(by=By.XPATH, value="/html/body/main/div/div[1]/div/div/div/div[2]/div/div[2]/div/div/div[2]")
 colorButtons = colorsDiv.find_elements(by=By.XPATH, value="*")
-
-
 
 for button in colorButtons:
     button.click()
 
     sizeButtonObject = driver.find_element(by=By.XPATH, value="/html/body/main/div/div[1]/div/div/div/div[2]/div/div[3]/ul/li[3]/button")
-    
     classNameString = sizeButtonObject.get_attribute('class')
 
     if "unavailable" not in classNameString:
-        colorName = driver.find_element(by=By.XPATH, value="/html/body/main/div/div[1]/div/div/div/div[2]/div/div[2]/div/div[2]/div[1]/span[2]").get_attribute('innerHTML')
+        colorName = driver.find_element(by=By.XPATH, value="/html/body/main/div/div[1]/div/div/div/div[2]/div/div[2]/div/div/div[1]/span[2]").get_attribute('innerHTML')
         available.availableColors.append(colorName)
 
 driver.close()
